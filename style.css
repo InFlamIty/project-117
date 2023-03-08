@@ -1,0 +1,21 @@
+body
+{
+    background-color: purple;
+    color: orangered;
+}
+#score
+{
+    font-size: 40px;
+    margin-left: 10px;
+}
+#timer
+{
+    font-size: 40px;
+    float: right;
+    margin-right: 10px;
+}
+#sketchToBeDrawn
+{
+    color: yellow;
+    font-size: 25px;
+}
